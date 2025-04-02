@@ -2,8 +2,6 @@
 
 Im a skid :fire: found broken src code on some russia forum , fixed it and updated offsets
 
-JESS JESSS I LOVE JESSS
-
 - ESP -
 Name,
 Health ,
